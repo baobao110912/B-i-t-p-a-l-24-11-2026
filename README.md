@@ -41,3 +41,7 @@ smart_tourism_presentation/
 - **Hiệu ứng Fly In (`.fly-in`):** Các khối nội dung tự động trượt từ dưới lên theo nhịp trễ tuần tự khi slide được kích hoạt; khi rời khỏi slide, trạng thái hiệu ứng được đảo ngược/thu hồi để sẵn sàng chạy lại ở lần xem sau.
 - **Hiệu ứng None (`.none-effect`):** Các khung media (`.WebP`, `.WebM`) và thanh thông điệp tổng kết hiển thị ngay lập tức, không kèm chuyển động.
 - **Định dạng Media:** Sử dụng ảnh định dạng `.WebP` và video định dạng `.WebM`. *(Lưu ý: cần có kết nối Internet để tải tài nguyên ảnh/video mẫu từ bên ngoài, hoặc bạn có thể thay thế bằng tệp `.webp` và `.webm` nội bộ đặt cùng thư mục).*
+
+---
+
+# Liên Kết Trình Chiếu: https://baobao110912.github.io/B-i-t-p-a-l-24-11-2026/
