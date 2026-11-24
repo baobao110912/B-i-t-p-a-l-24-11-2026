@@ -44,4 +44,5 @@ smart_tourism_presentation/
 
 ---
 
-# Liên Kết Trình Chiếu: https://baobao110912.github.io/B-i-t-p-a-l-24-11-2026/
+# Liên Kết Trình Chiếu: 
+`https://baobao110912.github.io/B-i-t-p-a-l-24-11-2026/`
